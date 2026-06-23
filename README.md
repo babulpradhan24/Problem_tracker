@@ -51,15 +51,3 @@ This repository contains the following folders:
 1. Visit the [maang.in](https://maang.in) website.  
 2. Use the AZ Problem Tracker extension to bookmark problems.  
 3. Access your saved bookmarks from the extension popup.
-
----
-
-## Learn While Building  
-
-Follow along with the course to build this project step-by-step. You'll gain hands-on experience with:  
-- Chrome extension architecture.  
-- Interacting with web pages using content scripts.  
-- Saving data with Chrome's Storage API.  
-- Debugging and testing extensions.  
-
-Happy coding! 🚀
