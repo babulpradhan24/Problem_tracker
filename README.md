@@ -1,4 +1,4 @@
-# Chrome Extension: AZ Problem Tracker
+# Chrome Extension: Problem Tracker in Popup
 
 ## Introduction  
 **AZ Problem Tracker** is a Chrome extension that helps students bookmark and manage problems on the [maang.in](https://maang.in) website. This project is part of a hands-on course designed to teach Chrome extension development, covering essential concepts like manifest files, storage APIs, and content scripts.
